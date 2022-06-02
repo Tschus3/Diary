@@ -1,2 +1,2 @@
 Kleine Sinnkrise i-wie
-edit im new branch
+mergekonflikt
